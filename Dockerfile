@@ -1,6 +1,13 @@
 # Cause fuck Ubuntu
 FROM debian:bookworm-slim
 
+# Default environment variables
+ENV DEBIAN_FRONTEND noninteractive 
+ENV IWAD doom1.wad
+ENV CONFIG default.cfg
+ENV SERVER_NAME Docker-Doom
+ENV START_MAP E1M1
+
 # Update the OS
 RUN apt-get update --yes
 RUN apt-get upgrade --yes
