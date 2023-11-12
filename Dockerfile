@@ -6,12 +6,12 @@ RUN apt-get update --yes
 RUN apt-get upgrade --yes
 
 # Helper libraries for adding repo
-RUN apt-get install --yes dialog apt-utils software-properties-common wget
+RUN apt-get install --yes dialog apt-utils wget
 
 # Adding Zandronum repo and installing the application
 
-RUN wget -O - http://debian.drdteam.org/drdteam.gpg | apt-key add -
-RUN apt-add-repository 'deb https://debian.drdteam.org stable multiverse'
+RUN wget -O /etc/apt/trusted.gpg.d/drdteam.gpg https://debian.drdteam.org/drdteam.gpg
+RUN echo "deb https://debian.drdteam.org stable multiverse" >> /etc/apt/sources.list
 RUN apt-get update --yes
 RUN apt-get upgrade --yes
 RUN apt-get install --yes --quiet libsdl-image1.2 zandronum
