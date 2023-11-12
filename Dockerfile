@@ -33,7 +33,10 @@ COPY /player/ /home/zandronum/player/
 COPY /iwad/ /home/zandronum/iwad/
 COPY /wad/ /home/zandronum/wad/
 
-RUN wget -O /home/zandronum/config/masterbanlist.txt https://zandronum.com/banlist && cat masterbanlist.txt >> /home/zandronum/player/banlist.txt
+# RUN wget -O /home/zandronum/config/masterbanlist.txt https://zandronum.com/banlist && \
+#     cat masterbanlist.txt >> /home/zandronum/player/banlist.txt
+# Zandronum has a config 'sv_enforcemasterlist'
+# so this isnt needed unless you want a local static copy
 
 USER root
 RUN chown -R zandronum:zandronum /home/zandronum

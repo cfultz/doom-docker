@@ -1,6 +1,2 @@
 // This is your ban list
 10.1.2.*: "test block" - 10.1.2.253 - enter some reason - date of ban - type of ban (ex: perm, indefinite)
-
-
-
-// This is the master Zandronum List //
