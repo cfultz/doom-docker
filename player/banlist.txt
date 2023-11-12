@@ -1,0 +1,684 @@
+// Zandronum Master Banlist //
+// This is the list of users who are banned from servers enforcing the master banlist.
+// Users are listed here for violating Zandronum's In-Game Rules and/or Master Server Policy, which can be found here:
+// Master Server Policy: http://zandronum.com/forum/showthread.php?tid=774#pid9201
+// In-Game Rules: http://zandronum.com/forum/announcements.php?aid=17
+//
+// To opt out of this banlist on your hosted server(s), you may use this cvar: sv_enforcemasterbanlist 0
+// Note that if you opt-out, your server may be hidden from public view.
+// Use common sense; don't flood the server list with unplayable bot-filled servers with advertisements in the server name.
+
+87.95.72.*: "kill all faggots" - 87.95.72.108 - non-stop hate speech despite warnings - May 19th 2023 - indefinite
+
+43.226.16.*:"Nax" - 43.226.16.200 - Master server staff impersonation, proxy use - Sep 28th 2020 - Perm
+
+71.14.51.*: HDRambo - 71.14.51.82 - Doxxing, predatory behavior - Perm
+73.232.162.52 : HDRambo - Doxxing, predatory behavior - Perm
+185.199.102.*: HDRambo - 185.199.102.66 - May 24th 2023
+97.81.225.*: HDRambo - 97.81.225.127 - June 5th 2023
+
+
+71.161.112.*: Volcanic563 - 71.161.112.16 - Security risk, DDoS threats - Sep 27th 2019 - TBD
+
+179.158.35.*: iiiiiiiiiiiiiii - 179.158.35.225 - Server crashing exploit - Jan 5th 2022 - Perm
+179.158.33.*: iiiiiiiiiiiiiii - 179.158.33.24 -Server crashing exploit - Feb 12th 2022 - Perm
+
+24.47.190.*:  Mobius - Security risk; rampant player harassment, massive troll, evasion - Feb 25th 2019 - Indefinite
+50.82.76.*: 50.82.76.135 - Mobius Evasion as Supplice
+173.17.68.*: Mobius - evasion - 173.17.68.162 - March 14th 2021
+
+85.173.130.*: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+85.173.130.204: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+185.178.50.*: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+207.189.20.*: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+185.178.50.120: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+207.189.20.18: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+185.178.50.105: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+199.188.236.135: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+80.240.214.11: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+199.255.*.*: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+37.215.30.142: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+193.56.148.25: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+178.122.198.46: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 30th 2018 - Perm
+46.39.51.186: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Oct 25th 2019 - Perm
+90.154.71.104: Lister/Li$ter - Security risk; nuking servers, massive troll, player harassment/doxxing - Nov 7th 2019 - Perm
+152.89.162.*: Lister/Li$ter - 152.89.162.186 - Security risk; nuking servers, massive troll, player harassment/doxxing - Nov 8th 2019 - Perm
+109.60.189.*: Lister/Li$ter - 109.60.189.215 - Security risk; nuking servers, massive troll, player harassment/doxxing - Nov 11th 2019 - Perm
+180.182.75.*: Lister/Li$ter - 180.182.75.91 - Security risk; nuking servers, massive troll, player harassment/doxxing - Jan 2nd 2020 - Perm
+14.54.123.*: Lister/Li$ter - 14.54.123.132 - Security risk; nuking servers, massive troll, player harassment/doxxing - Jan 2nd 2020 - Perm
+93.76.232.*: Lister/Li$ter - 93.76.232.162 - Security risk; nuking servers, massive troll, player harassment/doxxing - Jan 2nd 2020 - Perm
+219.100.37.*: Lister/Li$ter - 219.100.37.234 - Security risk; nuking servers, massive troll, player harassment/doxxing - Jan 2nd 2020 - Perm
+27.92.125.*: Lister/Li$ter - 27.92.125.40 - Security risk; nuking servers, massive troll, player harassment/doxxing - Jan 2nd 2020 - Perm
+78.63.219.*: Lister/Li$ter - 78.63.219.26 - Security risk; nuking servers, massive troll, player harassment/doxxing - Jan 2nd 2020 - Perm
+183.98.204.*: Lister/Li$ter - 183.98.204.59 - Security risk; nuking servers, massive troll, player harassment/doxxing - Jan 2nd 2020 - Perm
+36.13.172.*: Lister/Li$ter - 36.13.172.197 - Security risk; nuking servers, massive troll, player harassment/doxxing - Jan 2nd 2020 - Perm
+95.165.102.*: Lister/Li$ter - 95.165.102.24 - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 21st 2020 - Perm
+26.36.213.*: Lister/Li$ter - 26.36.213.179 - Security risk; nuking servers, massive troll, player harassment/doxxing - Dec 21st 2020 - Perm
+
+//177.228.80.*:Player/SNEU - Flooding servers via namechanges to cause lag - 177.228.80.78 - December 1st 2018 //Permanent per Nax
+
+174.50.197.*:Blitz - 174.50.197.210 - July 27th 2018 (pending further investigation into supposed doxing and threats)
+
+
+//91.197.106.*:Canvas123 - 91.197.106.99 - Cheating - July 19th 2018 (Release: July 19th 2019)
+
+
+99.227.161.*:[GOD]KELDO - 99.227.161.160 - Player harassment, death threats, police involvement - August 8th 2016 //Do not undo this
+196.52.2.*:AntiSocialSocialClub - 196.52.2.116 - Sep 18th 2017
+173.239.230.*:[6IX]GOD - 173.239.230.88 - Sep 23rd 2017
+196.54.41.*:Keldo - 196.54.41.39 - Sep 24th 2017
+99.227.81.*:[EYE]Keldo - 99.227.81.161 - Feb 9 2020 - Evasion
+
+// adamizer & co: severe votekick abuse, impersonation, spam, trolling, and ban evasion across a multitude of servers over a long period of time
+24.208.194.*: - 24.208.194.237 - Jan 3rd 2017 - Perm
+174.101.65.*: - 174.101.65.91 - Jan 3rd 2017
+72.220.115.*: - 72.220.115.117 - Jan 3rd 2017
+138.229.184.*: - 138.229.184.32 - Jan 3rd 2017
+45.72.227.*: - 45.72.227.77 - Jan 3rd 2017
+75.119.247.*: - 75.119.247.215 - Jan 3rd 2017
+24.87.137.*: - 24.87.137.30 - Jan 3rd 2017
+66.237.95.*: - 66.237.95.189 - Jan 3rd 2017
+108.30.34.*: - 108.30.34.211 - Jan 5th 2017
+162.233.48.*: - 162.233.48.118 - Jan 6th 2017
+75.175.109.*: - 75.175.109.211 - Jan 17th 2017
+175.117.226.*: - 175.117.226.57 - Jan 23rd 2017
+218.156.130.*: - 218.156.130.175 - Jan 28th 2017
+67.170.111.*: - 67.170.111.129 - Jan 30th 2017
+24.208.194.*: - 24.208.194.237 - Feb 8th 2017
+24.19.238.*: - 24.19.238.113 - Feb 8th 2017
+24.208.194.*: - 24.208.194.237 - Mar 19th 2017
+69.137.3.*: - 69.137.3.245 - Mar 20th 2017
+98.117.91.*: - 98.117.91.121 - Mar 26th 2017
+50.170.222.*: 50.170.222.91 - April 4th 2017
+65.60.247.*: 65.60.247.151 - April 8th 2018
+216.252.74.*: 216.252.74.182 - tb-303 - September 22 2019
+174.105.25.*: 174.105.25.2 - adamizer - September 22 2019
+60.130.103.*: 60.130.103.195 - proxy - September 22 2019
+192.173.165.*: 192.173.165.21 - proxy  - September 22 2019
+207.5.7.*: 207.5.7.194 - proxy - September 22 2019
+75.179.161.*: 75.179.161.238 - adamizer - September 26 2019
+116.67.255.*: 116.67.255.186 - adamizer - Sep 27th 2019
+
+93.99.233.*:capodecima - 93.99.233.6 - DDOS - June 19th 2016 - Perm
+78.59.77.*:capo - June 25th Update
+109.235.53.*:capo - 109.235.53.91 - Jan 7th 2017
+155.254.225.*:capo - 155.254.225.180 - Jan 7th 2017
+154.127.62.*:capo - 154.127.62.123 - Jan 7th 2017
+45.61.45.*:capo - 45.61.45.39 - Jan 7th 2017
+83.149.126.*:capo - 83.149.126.156 - Mar 26th 2017
+91.109.20.*:capo - 91.109.20.218 - Mar 26th 2017
+46.165.246.*:capo - 46.165.246.227 - Mar 26th 2017
+212.7.220.*:capo - 212.7.220.36 - Mar 27th 2017
+37.187.137.*:capo - 37.187.137.170 - Mar 29th 2017
+5.135.246.*:capo - 5.135.246.255 - Mar 30th 2017
+85.17.26.*:capo - 85.17.26.10 - Mar 30th 2017
+92.42.139.*:capo - 92.42.139.7 - April 1st 2017
+94.242.243.*:capo - 94.242.243.227 - April 1st 2017
+94.242.219.*:capo - 94.242.219.138 - April 1st 2017
+46.23.67.*:capo - 46.23.67.130 - April 1st 2017
+146.185.16.*:capo - 146.185.16.55 - April 1st 2017
+109.201.143.*:capo - 109.201.143.21 - April 2nd 2017
+46.166.179.*:capo - 46.166.179.38 - April 8th 2017
+158.255.211.*:capo - 158.255.211.93 - April 9th 2017
+146.0.42.*:capo - 146.0.42.84 - April 10th 2017
+5.187.21.*:capo - 5.187.21.54 - April 13th 2017
+93.158.200.*:capo - 93.158.200.241 - April 13th 2017
+45.32.155.*:capo - 45.32.155.171 - May 6th 2017
+149.154.152.*:capo - 149.154.152.142 - May 29th 2017
+185.112.157.*:capo - 185.112.157.172 - June 3rd 2017
+78.129.138.*:capo - 78.129.138.235 - June 5th 2017
+130.180.201.*:capo - 130.180.201.99 - June 8th 2017
+87.117.234.*:capo - 87.117.234.31 - June 9th 2017
+92.118.12.23:capo - December 25th 2020
+185.16.81.134:capo - February 13th 2020
+
+
+//Filystyn's ISP allows him to practically encompass the entire 31.0.*.* range. Be extra cautious if anyone with this IP range is sighted.
+31.11.212.*:filystyn - 31.11.212.161 - Security Risk - June 20th 2016 - Perm
+88.156.146.*:filystyn - 88.156.146.94 - Extra IP - July 12th 2016
+87.99.101.*:filystyn - 87.99.101.22 - Extra IP - July 12th 2016
+217.99.252.*:filystyn - 217.99.252.46 - evasion - Oct 8th 2016
+212.83.146.*:filystyn - 212.83.146.125 - extra ip - Oct 10th 2016
+89.75.61.*:filystyn - 89.75.61.17 - extra ip - June 23rd 2017
+31.0.87.*:filystyn - 31.0.87.52 - extra ip - July 29th 2017
+31.0.80.*:filystyn - 31.0.80.50 - extra ip - Oct 7th 2017
+31.0.85.*:filystyn - 31.0.85.32 - extra ip - Oct 7th 2017
+31.0.70.*:filystyn - 31.0.70.141 - extra ip - Oct 7th 2017
+37.248.163.*:filystyn - 37.248.163.156 - extra ip - Oct 7th 2017
+37.248.165.*:filystyn - 37.248.165.205 - extra ip - Oct 20th 2017
+31.0.36.*:filystyn - 31.0.36.133 - extra ip - Oct 20th 2017
+31.0.44.*:filystyn - 31.0.44.42 - extra ip - Oct 20th 2017
+31.0.71.*:filystyn - 31.0.71.144 - extra ip - Oct 20th 2017
+31.0.35.*:filystyn - 31.0.35.44 - extra ip - Dec 2nd 2017
+31.0.42.*:filystyn - 31.0.42.170 - extra ip - Dec 2nd 2017
+31.0.40.*:filystyn - 31.0.40.194 - extra ip - Dec 2nd 2017
+31.0.37.*:filystyn - 31.0.37.140 - extra ip - Dec 2nd 2017
+31.0.40.*:filystyn - 31.0.40.194 - extra ip - Dec 2nd 2017
+37.248.167.*:filystyn - 37.248.167.205 - evasion - Dec 16th 2017
+31.0.32.*:filystyn - 31.0.32.99 - extra ip - Dec 16th 2017
+37.248.160.*:filystyn - 37.248.160.202 - evasion - Sep 30th 2018
+37.248.214.*:filystyn - 37.248.214.36 - extra ip - Sep 30th 2018
+31.0.41.*:filystyn - 31.0.41.231 - evasion - Nov 15th 2018
+31.0.127.*:filystyn - 31.0.127.115 - extra ip - Nov 15th 2018
+31.0.124.*:filystyn - 31.0.124.193 - extra ip - Nov 15th 2018
+37.248.165.*:filystyn - 37.248.165.83 - extra ip - Dec 4th 2018
+31.0.39.*:filystyn - 31.0.39.51 - extra ip - Dec 4th 2018
+31.0.66.*:filystyn - 31.0.66.64 - extra ip - Dec 4th 2018
+77.55.222.*:filystyn - 77.55.222.23 - evasion - Oct 25th 2019
+93.105.185.*:filystyn - 93.105.185.153 - evasion - Oct 25th 2019
+185.56.188.*:filystyn - 185.56.188.80 - extra ip - June 12th 2020
+95.160.35.*:filystyn - 95.160.35.232 - extra ip - May 4th 2021
+185.220.101.*:filystyn - 185.220.101.203 - extra ip - May 4th 2021
+45.86.35.*:filystyn - 45.86.35.80 - extra ip - May 6th 2021
+
+
+//190.17.250.*:Stumpy - 190.17.250.76 - Wallhacking - March 8th 2016 (release: March 8th 2017)
+
+//201.230.184.*:WIFF!!! - 201.230.184.193 - Aimbotting - June 9th 2016 (release: June 9th 2017)
+
+
+//109.241.229.*:CyberTomek - 109.241.229.65 - Hacking - June 4th 2014 (release: June 4th 2015)
+
+178.151.227.*:Dmitry - 178.151.227.29 - Hacking, threats to port - Perm - May 17th 2014
+5.152.200.*:Dmitry - 5.152.200.199 - Extra IP - May 17th 2014
+107.161.163.*:Dmitry - 107.161.163.10 - Extra IP - May 17th 2014
+149.255.32.*:Dmitry - 149.255.32.233 - Extra IP - May 17th 2014
+184.170.129.*:Dmitry - 184.170.129.126 - Extra IP - May 17th 2014
+216.172.148.*:Dmitry/Maddyson - 216.172.148.12 - Extra IP - May 17th 2014
+192.240.97.*:Dmitry - 192.240.97.83 - Extra IP - May 17th 2014
+69.65.47.*:Dmitry - 69.65.47.120 - Extra IP - May 17th 2014
+93.77.114.*:Dmitry - 93.77.114.5/93.77.114.102 - Extra IP - May 19th 2014
+99.108.83.*:Dmitry - 99.108.83.44 - May 24th 2014
+76.205.163.*:Dmitry - 76.205.163.64 - May 24th 2014
+216.58.82.*:Dmitry - 216.58.82.68 - May 24th 2014
+142.3.115.*:Dmitry - 142.3.115.221 - May 24th 2014
+95.57.120.*:DMITRY - 95.57.120.176 - Evasion - Jul 28th 2014
+178.151.227.*:azur/DMITRY - 178.151.227.29 - Evasion - Jul 28th 2014
+41.223.53.*:azur/DMITRY - 41.223.53.102 - Evasion - Jul 28th 2014
+85.31.101.*:Dmitry - 85.31.101.229 - Extra IP - Jul 28th 2014
+188.64.170.*:azur/Dmitry - 188.64.170.221 - Extra IP - Jul 28th 2014
+188.64.171.*:azur/Dmitry - 188.64.171.181 - Extra IP - Jul 28th 2014
+91.233.244.*:azur/Dmitry - 91.233.244.66 - Extra IP - Jul 28th 2014
+31.184.192.*:xxx - 31.184.192.175 - Extra IP (azur/Dmitry) - Jul 28th 2014
+185.29.8.*:Umad - 185.29.8.155 - Extra IP (azur/Dmitry) - Jul 28th 2014
+188.116.54.*:Umad - 188.116.54.12 - Extra IP (azur/Dmitry) - Jul 28th 2014
+91.233.249.*:Umad - 91.233.249.50 - Extra IP (azur/Dmitry) - Jul 28th 2014
+212.74.54.*:ccc - 212.74.54.206 - Extra IP (Dmitry/azur/Umad/xxx) - Jul 28th 2014
+5.133.179.*:aaa - 5.133.179.243 - Extra IP (Dmitry/azur/Umad/xxx/ccc) - Jul 28th 2014
+78.47.55.*:Dmitry - 78.47.55.70 - Extra IP - Jul 28th 2014
+46.249.47.*:Dmitry - 46.249.47.185 - Extra IP - Aug 28th 2014
+94.242.206.*:Dmitry - 94.242.206.142 - Extra IP - Aug 28th 2014
+46.167.245.*Dmitry - 46.167.245.173 - Extra IP - Aug 28th 2014
+164.138.220.*:Dmitry - 164.138.220.49 - Extra IP - Aug 28th 2014
+93.174.88.*:Dmitry - 93.174.88.198 / 93.174.88.197 - Extra IP - Aug 28th 2014
+31.193.128.*:Dmitry - 31.193.128.155 - Extra IP - Aug 28th 2014
+151.236.17.*:Dmitry - 151.236.17.150 - Extra IP - Aug 28th 2014
+193.28.228.*:Dmitry - 193.28.228.60 - Extra IP - Aug 28th 2014
+185.26.239.*:Qwas - 185.26.239.143 - Extra IP (Dmitry) - Nov 1st 2014
+151.236.21.*:Qwas - 151.236.21.59 - Extra IP (Dmitry) - Nov 1st 2014
+81.30.145.*:Dmitry - 81.30.145.91 - Evasion, hacking, multiple server shenanigans - Nov 17th 2014
+46.38.63.*:Dmitry - 46.38.63.29 - Extra IP - Nov 17th 2014
+212.98.168.*:Dmitry - 212.98.168.40 - Extra IP - Nov 17th 2014
+62.4.8.*:Dmitry - 62.4.8.137 - Extra IP - Nov 17th 2014
+91.233.249.*:Dmitry - 91.233.249.42 - Extra IP - Nov 17th 2014
+206.190.158.*:Dmitry - 206.190.158.24 - Extra IP - Nov 18th 2014
+206.190.157.*:Dmitry - 206.190.157.44 - Extra IP - Nov 18th 2014
+109.86.1.*:Dima/Dmitry/Sapsan - 109.86.1.20 - Evasion - Nov 13th 2015
+217.65.87.*:Dmitry - 217.65.87.235 - Evasion - Nov 13th 2015
+31.210.100.*:Dmitry - 31.210.100.211 - Evasion - Nov 13th 2015
+91.226.212.*:dima - 91.226.212.49 - Evasion - Dec 19th 2015
+94.59.7.*:Dmitry - 94.59.7.67 - Evasion - Nov 6th 2020
+
+//78.102.111.*:kgsws CZ - 78.102.111.41 - Using exploits in a public server - Mar 20th 2014 (release: Jun 20th 2014)
+
+93.85.187.*:jester/maddyson/nightmare01111- 93.85.187.140 - Crashing servers, threats to port, ban evasion - Perm - May 17th 2014
+93.85.156.*:jester/maddyson/nightmare01111 - 93.85.156.225 - Crashing servers - Mar 8th 2014
+86.57.185.*:jester/maddyson/nightmare01111 - 86.57.185.185 - Extra IP - Mar 8th 2014
+86.57.184.*:jester/maddyson/nightmare01111 - 86.57.184.253 - Extra IP - Mar 8th 2014
+178.124.110.*:jester/maddyson/nightmare01111 - 178.124.110.44 - Extra IP - Mar 8th 2014
+178.124.111.*:jester/maddyson/nightmare01111 - 178.124.111.88 - Extra IP - Mar 8th 2014
+93.85.140.*:jester/maddyson/nightmare01111 - 93.85.140.226 - Extra IP - Mar 8th 2014
+178.124.105.*:jester/maddyson/nightmare01111 - 178.124.105.192 - Extra IP - Mar 8th 2014
+93.84.42.*:jester/maddyson/nightmare01111 - 93.84.42.143 - Extra IP - Mar 8th 2014
+93.85.130.*:jester/maddyson/nightmare01111 - 93.85.130.210 - Extra IP - Mar 8th 2014
+178.124.105.*:jester/maddyson/nightmare01111 - 178.124.105.140 - Extra IP - Mar 8th 2014
+178.124.207.*:jester/maddyson/nightmare01111 - 178.124.207.159 - Extra IP - Mar 8th 2014
+93.84.58.*:jester/maddyson/nightmare01111 - 93.84.58.35 - Extra IP - Mar 8th 2014
+86.57.191.*:jester/maddyson/nightmare01111 - 86.57.191.222 - Extra IP - Mar 8th 2014
+93.84.55.*:jester/maddyson/nightmare01111 - 93.84.55.251 - Extra IP - Mar 8th 2014
+93.84.41.*:jester/maddyson/nightmare01111 - 93.84.41.164 - Extra IP - Mar 8th 2014
+93.85.167.*:jester/maddyson/nightmare01111 - 93.85.167.159 - Extra IP - Mar 8th 2014
+93.85.133.*:jester/maddyson/nightmare01111 - 93.85.133.251 - Extra IP - Mar 8th 2014
+178.125.30.*:jester/maddyson/nightmare01111 - 178.125.30.178 - June 10th 2014
+93.84.48.*:maddyson - 93.84.48.67 - Nov 11th 2014
+93.84.1.*:maddyson - 93.84.1.64 - Nov 30th 2014
+178.121.207.*:maddyson/Daemon - 178.121.207.29 - June 10th 2015
+93.85.51.*:maddyson - 93.85.51.38 - Evasion - Nov 13th 2015
+178.121.201.*:maddyson - 178.121.201.19 - Evasion - Sep 22nd 2018
+178.122.94.*:maddyson - 178.122.94.202 - Evasion - Sep 22nd 2018
+178.122.205.*:maddyson - 178.122.205.170 - Evasion - Sep 22nd 2018
+178.122.200.*:maddyson - 178.122.200.186 - Evasion - Sep 22nd 2018
+178.121.234.*:maddyson - 178.121.234.224 - Evasion - Sep 22nd 2018
+178.121.215.*:maddyson - 178.121.215.48 - Evasion - Sep 22nd 2018
+178.122.191.*:maddyson - 178.122.191.180 - Evasion - Sep 22nd 2018
+37.44.96.*:maddyson - 37.44.96.241 - Evasion - Sep 28th 2018
+93.85.59.*:maddyson/captain - 93.85.59.197 - Evasion - Oct 1st 2018
+178.121.206.*:maddyson - 178.121.206.99 - Evasion - Oct 19th 2018
+178.122.236.*:captain - 178.122.236.249 - Evasion - May 5th 2019
+178.121.218.*:captain - 178.121.218.58 - Evasion - May 11th 2019
+178.127.202.*:captain - 178.127.202.73 - Evasion - June 29th 2019
+
+//these ranges seem to change constantly for anyone using these IPs, caution advised when banning large ranges -i - Update Jan 19th 2014 - Ranges too large and too hard to keep up with on the whitelist, server hosts encouraged to ban if needed.
+//92.6.*.* & 92.10.*.*
+
+//190.234.*.*:calamardo tentaculos / outsider94/slowmotion/Skullcold range - Cheating - Perm - October 18th 2013
+//190.235.*.*:calamardo tentaculos / outsider94 range
+//190.233.*.*:calamardo tentaculos / slowmotion2/outsider94 range
+//190.236.*.*:calamardo tentaculos / slowmotion2/outsider94 range
+46.16.*.*:calamardo tentaculos / outsider94/slowmotion/Skullcold range
+190.41.229.*:calamardo tentaculos/outsider94/slowmotion/Skullcold/Christian/Nevermor - Cheating - 190.41.229.126 - Apr 27th 2014
+190.222.41.*:calamardo tentaculos/outsider94/slowmotion/Skullcold/Christian/Nevermor - Cheating - 190.222.41.87 - Apr 28th 2014
+190.49.229.*:calamardo tentaculos/outsider94/slowmotion/Skullcold/Christian/Nevermor - Cheating - 190.49.229.126 - Apr 29th 2014
+200.106.46.*:skullcold/deathadder - Cheating - 200.106.46.166 - Oct 20th 2014
+201.230.35.*:deathadder - Cheating - 201.230.35.215 - Oct 22nd 2014
+201.230.240.*:la abuela/serious sam - Cheating - 201.230.240.222 - Oct 22nd 2014
+190.235.98.*:serious sam - Cheating - 190.235.98.16 - Oct 30th 2014
+190.234.134.*:serious sam - Cheating - 190.234.134.149 - Oct 30th 2014
+190.43.46.*:tasmani@ - Cheating - 190.43.46.222 - Nov 9th 2014
+190.235.225.*:tasmani@ - Cheating - 190.235.225.114 - Nov 11th 2014
+190.233.215.*:slowmotion - Cheating - 190.233.215.152 - Nov 28th 2014
+201.230.4.*:Slow(motion) - Extra IP - 201.230.4.210 - Dec 1st 2014
+190.222.41.*:Slow(motion) - Extra IP - 190.222.41.58 - Dec 1st 2014
+190.233.215.*:Slowmo(tion) - Extra IP - 190.233.215.152 - Dec 1st 2014
+190.234.132.*:CANCERENTUCULO/praef/player5 - Evasion - 190.234.132.220 - Sep 7th 2015
+190.43.61.*:PRAEF - Hacking, Evasion - 190.43.61.197 - Oct 23rd 2015
+190.42.3.*:azazel/slosumo/morphling - Evasion - 190.42.3.14 - Dec 30th 2015
+190.232.220.*:dissociative/legalize - Evasion - 190.232.220.229 - Jan 22nd 2016
+190.113.208.*:lies - Evasion - 190.113.208.240 - Aug 29th 2016
+201.230.115.*:windsor - Evasion - 201.230.115.132 - Dec 4th 2016
+190.233.206.*:rey del ladeo - Evasion - 190.233.206.237 - Jan 8th 2017
+
+
+//71.229.*.*:Kal Foxis - Cheating - Perm - Per Nax, this is a massive range that encompasses at least one entire zip code. Kalfoxis bans using this IP range will be dealt with on a smaller scale.
+98.77.46.*: Kal_Foxis - Hacker - 98.77.46.65 - September 29, 2011
+98.254.156.*:Kal_Foxis - Ban Evading - 98.254.156.38 - BFFBot
+108.129.*.*:Kalfoxis - March 1, 2012
+7.18.37.*:KalFoxis And Soulreaper (Shadowfox) - Ban evasion through VPN - Jan 19th 2013
+7.32.155.*:KalFoxis And Soulreaper (Shadowfox) - Ban evasion through VPN - Jan 19th 2013
+199.217.118.4:Kal foxis - ban evasion - oct 23rd 2013
+98.15.162.*:Fluffy - Evasion (Kalfoxis) - 98.15.162.40 - Apr 28th 2014
+70.185.189.*:PwnDaBear - Evasion (Kalfoxis) - 70.185.189.103 - July 20th 2014
+72.195.182.*:Kalfoxis - Evasion - 72.195.182.227 - Feb 4th 2016
+68.230.167.*:Typhoon - Evasion - 68.230.167.207 - Oct 27th 2017
+174.255.192.*:[NS]Doom - Evasion - 174.255.192.81 - June 29th, 2019
+107.194.94.*:[NS]Doom - evasion - 107.194.94.105 - Sep 7th 2022
+
+//These bans are fairly old, and given the ban appears to be 1 year 9 months from the entries (cheating + 3 evasions), it looks like it should've been done by May 2014. Reban if it should be valid. - TTA
+//85.217.13.*:Ironicuz - Cheating - July 6th 2012 - 85.217.13.54
+//82.141.86.*:Ironicruz -ban evasion - March 22nd 2013
+//82.141.92.*: Skoropaladin - Impersonation/Ban evasion (Ironicuz) - April 5th 2013 - 82.141.92.83
+//85.217.0.*:Ironicuz(?) - Impersonation/Ban evasion - Nov 10th 2013
+
+//209.234.*.*:Creed - Cheating - 209.234.217.76 - Perm - 9/20/11 - nax:  this ban appears to no longer be relevant and its subnet is requiring whitelists.
+74.202.*.*:soulreap AKA [I] Doom, PC17, Shadowfox, Creed, and more - Cheating/Evading - 74.202.201.160 - January 8, 2012
+206.169.217.*:shogun9x - soulreap/Shadowfox - 206.169.217.133 - March 22, 2012
+23.29.5.*:Juvenile - SoulReap - 23.29.5.38 - May 12, 2012
+//23.29.8.13:"Duke" - SoulReap/Shadowfox - Oct 2012
+23.29.7.*:Shadowfox evading - April 2nd 2013
+67.221.255.*:Hanzer - soulreap/Shadowfox - ban evasion via proxy 4/10/2013
+//67.221.*.*:Shadowfox/Memphis/Hanzer - evading April 13th 2013 - wata: commented out on july 26, 2023
+209.239.112.*: Sunder - c'est shadowfox -HW
+69.64.33.*: shadowfox
+69.64.50.*: shadowfox
+87.117.253.*: shadowfox proxy - Oct 26 '13
+95.154.254.*: shadowfox proxy - Oct 26 '13
+107.6.138.*: shadowfox proxy - Oct 26 '13
+217.160.90.*: shadowfox proxy - Oct 26 '13
+37.221.175.38: shadowfox proxy - Dec 27th 13
+37.221.173.229: shadowfox - jan 16th 2014
+25.46.185.*:[v]z0r - evasion (Shadowfox) - 25.46.185.66 - Jan 29th 2014
+66.55.128.235:[idp]Morpheus - Evasion (shadowfox) - Feb 15th
+75.74.173.*:[IDP]DarKTemplaR - Evasion (Shadowfox) - 75.74.173.131 - Mar 4th 2014
+24.209.17.*:Shadowfox - Evasion - 24.209.17.74 - Mar 5th 2014
+71.207.152.*:Shadowfox - evasion - 71.207.152.41 - March 5th 2014
+50.131.177.*:[IDP]DarKTemplaR - evasion - 50.131.177.96 - Mar 7th 2014
+69.251.231.*:Shadowfox - extra IP - 69.251.231.62 - Mar 7th 2014
+71.230.208.*:Shadowfox - extra IP - 71.230.208.244 - Mar 7th 2014
+71.202.160.*:Shadowfox - extra IP - 71.202.160.149 - Mar 7th 2014
+76.24.80.*:Shadowfox - extra IP - 76.24.80.6 - Mar 7th 2014
+76.185.1.*:Shadowfox - extra IP - 76.185.12.98 - Mar 7th 2014
+108.48.53.*:Shadowfox - extra IP - 108.48.53.131 - Mar 7th 2014
+50.148.186.*:Shadowfox - extra IP - 50.148.186.157 - Mar 7th 2014
+76.24.167.*:[IDP]Morpheus - evasion - 76.24.167.18 - Mar 8th 2014
+76.103.233.*:[IDP] i suck now - evasion (Shadowfox) - 76.103.233.34 - Mar 9th 2014
+149.159.97.*:Shadowfox - evasion - 149.159.97.95 - Mar 9th 2014
+67.180.255.*:Shadowfox (Miek) - evasion - 67.180.255.13 - Mar 13th 2014
+24.187.150.*:Shadowfox - evasion - 24.187.150.225 - Mar 10th 2014
+173.216.216.*:Shadowfox - Evasion - 173.216.216.199 - Mar 11th 2014
+24.184.122.*:Shadowfox - Evasion - 24.184.122.50 - March 11th 2014
+76.24.167.*:Shadowfox - Evasion - 	76.24.167.18 - March 12th 2014
+67.180.249.*:Shadowfox - Evasion - 67.180.249.24 - March 12th 2014
+129.2.129.*:Shadowfox - Evasion - 129.2.129.216 - March 12th 2014
+99.6.49.*:Shadowfox - Evasion - 99.6.49.123 - March 12th 2014
+75.181.92.*:Shadowfox - Evasion - 75.181.92.51 - March 12th 2014
+76.17.41.*:Shadowfox - Evasion - 76.17.41.114  - March 12th 2014
+71.199.29.*:Shadowfox - Evasion - 71.199.29.91 - March 12th 2014
+23.255.225.*:Shadowfox - Evasion - 23.255.225.142 - March 12th 2014
+172.6.164.*:Shadowfox - Evasion - 172.6.164.161 - March 12th 2014
+129.2.129.*:Shadowfox - Evasion - 129.2.129.216 - March 12th 2014
+108.74.223.*:Shadowfox - Evasion - 108.74.223.133 - March 12th 2014
+67.163.1.*:Shadowfox - Evasion - 	67.163.1.122 - March 12th 2014
+65.31.58.*:Shadowfox - Evasion - 65.31.58.132 - March 12th 2014
+138.23.161.*:Shadowfox - Evasion - 138.23.161.89 - March 13th 2014
+69.143.203.*:Shadowfox - Evasion - 69.143.203.254 - March 14th 2014
+99.250.186.*:Shadowfox - Evasion - 99.250.186.150 - March 21st 2014
+23.255.225.*:Shadowfox - Evasion - 23.255.225.142 - March 21st 2014
+99.251.32.*:[VGL] Kyle - Evasion (Shadowfox) - 99.251.32.202 - Mar 27th 2014
+99.250.186.*:[VGL] Kyle - Evasion (Shadowfox) - 99.250.186.150 - Mar 27th 2014
+68.67.91.*:[VGL] Kyle - Evasion (Shadowfox) - 68.67.91.225 - Mar 27th 2014
+173.183.141.*:Shadowfox - Extra IP - 173.183.141.114 - Mar 27th 2014
+198.143.159.*:Shadowfox - Extra IP - 198.143.159.137 - Mar 27th 2014
+75.70.213.*:Shadowfox - Extra IP - 75.70.213.144 - Mar 27th 2014
+67.163.236.*:Shadowfox - Evasion - 67.163.236.188 - Apr 10th 2014
+8.25.227.*:Shadowfox - Evasion - 8.25.227.115 - Apr 13th 2014
+99.228.199.*:shadowfox - evasion - 99.228.199.29 - april 13th 2014
+67.160.74.*:Shadowfox - Evasion - 67.160.74.68 - Apr 14th 2014
+98.234.111.*:Shadowfox - Evasion - 98.234.111.106 - Apr 15th 2014
+71.75.38.*:Shadowfox - Evasion - 71.75.38.41 - Apr 15th 2014
+68.109.132.*:Shadowfox - Evasion - 68.109.132.136 - Apr 29th 2014
+69.165.202.*:Shadowfox - Evasion - 69.165.202.52 - Apr 29th 2014
+68.45.21.*:Shadowfox - Evasion - 68.45.21.170 - May 10th 2014
+98.250.230.*:Shadowfox - Evasion - 98.250.230.194 - May 17th 2014
+96.40.130.*:Shadowfox - Evasion - 96.40.130.150 - May 23rd 2014
+173.179.188.*:Shadowfox - Evasion - 173.179.188.183 - July 20th 2014
+169.232.241.*:Shadowfox - Evasion - 169.232.241.81 - July 20th 2014
+98.117.167.*:Shadowfox - Evasion - 98.117.167.26 - July 22nd 2014
+70.71.150.*:Shadowfox - Evasion - 70.71.150.75 - Aug 8th 2014
+75.73.176.*:Shadowfox - Evasion - 75.73.176.204 - Aug 26th 2014
+68.42.105.*:Shadowfox - Evasion - 68.42.105.208 - Aug 26th 2014
+65.185.100.*:Shadowfox - Evasion - 65.185.100.158 - Aug 26th 2014
+75.85.35.*:Shadowfox - Evasion - 75.85.35.186 - Sep 17th 2014
+73.184.135.*:Shadowfox - Evasion - 73.184.135.12 - Oct 2nd 2014
+71.202.181.*:Shadowfox - Evasion - 71.202.181.122 - Oct 5th 2014
+71.236.0.*:Shadowfox - Evasion - 71.236.0.55 - Oct 6th 2014
+99.60.8.*:Shadowfox - Evasion - 99.60.8.21 - Oct 7th 2014
+76.28.145.*:Shadowfox - Evasion - 76.28.145.54 - Oct 7th 2014
+67.171.56.*:Shadowfox - Evasion - 67.171.56.227 - Oct 7th 2014
+73.162.230.*:Shadowfox - Evasion - 73.162.230.88 - Oct 7th 2014
+209.234.222.*:Shadowfox - Evasion - 209.234.222.53 - Oct 16th 2014
+24.28.12.*:Shadowfox - Evasion - 24.28.12.8 - Oct 18th 2014
+23.29.6.*:Shadowfox - Evasion - 23.29.6.69 - Oct 18th 2014
+122.107.133.*:Shadowfox - Evasion - 122.107.133.47 - Oct 29th 2014
+67.186.6.*:Shadowfox - Evasion - 67.186.6.29 - Dec 4th 2014
+76.105.232.*:Shadowfox - Evasion - 76.105.232.128 - Dec 4th 2014
+98.234.19.*:Shadowfox - Evasion - 98.234.19.187 - Dec 12th 2014
+23.29.7.*:Shadowfox - Evasion - 23.29.7.76 - Dec 18th 2014
+184.190.83.*:Shadowfox - Evasion - 184.190.83.71 - Dec 18th 2014
+75.82.32.*:Shadowfox - Evasion - 75.82.32.144 - Jan 8th 2015
+98.166.169.*:Shadowfox - Evasion - 98.166.169.208 - Jan 26th 2015
+50.138.213.*:Shadowfox - Evasion - 50.138.213.121 - Feb 5th 2015
+65.34.209.*:Shadowfox - Evasion - 65.34.209.76 - Feb 6th 2015
+74.193.208.*:Shadowfox - Evasion - 74.193.208.124 - Feb 6th 2015
+76.115.171.*:Shadowfox - Evasion - 76.115.171.65 - Feb 9th 2015
+73.0.114.*:Shadowfox - Evasion - 73.0.114.180 - Feb 9th 2015
+73.194.193.*:Shadowfox - Evasion - 73.194.193.209 - Feb 10th 2015
+99.228.145.*:Shadowfox - Evasion - 99.228.145.125 - Feb 10th 2015
+99.246.176.*:Shadowfox - Evasion - 99.246.176.201 - Feb 10th 2015
+99.249.160.*:Shadowfox - Evasion - 99.249.160.239 - Feb 10th 2015
+23.29.5.*:Shadowfox - Evasion - 23.29.5.150 - Feb 21st 2015
+24.57.15.*:Shadowfox - Evasion - 24.57.15.38 - Feb 21st 2015
+99.236.205.*:Shadowfox - Evasion - 99.236.205.2 - Feb 21st 2015
+70.171.21.*:Shadowfox - Evasion - 70.171.21.218 - Feb 21st 2015
+68.45.60.*:Shadowfox - Evasion - 68.45.60.25 - Mar 6th 2015
+70.170.97.*:Shadowfox - Evasion - 70.170.97.58 - Mar 6th 2015
+207.47.239.*:Shadowfox - Evasion - 207.47.239.36 - Mar 6th 2015
+205.250.98.*:Shadowfox - Evasion - 205.250.98.194 - Mar 7th 2015
+174.49.192.*:Shadowfox - Evasion - 174.49.192.231 - May 21st 2015
+96.32.64.*:Shadowfox - Evasion - 96.32.64.232 - June 3rd 2015
+107.6.92.*:Shadowfox - Evasion - 107.6.92.4 - Aug 31st 2015
+67.222.145.*:Shadowfox - Evasion - 67.222.145.199 - Oct 25th 2015
+23.239.23.*:Shadowfox - Evasion - 23.239.23.87 - Dec 23rd 2015
+23.246.241.*:Shadowfox - Evasion - 23.246.241.162 - Dec 23rd 2015
+50.26.170.*:Shadowfox - Evasion - 50.26.170.237 - Dec 25th 2015
+199.188.117.*Shadowfox - Evasion - 199.188.117.52 - Dec 25th 2015
+67.203.3.*:Shadowfox - Evasion - 67.203.3.253 - Dec 25th 2015
+69.163.33.*:Shadowfox - Evasion - 69.163.33.34 - Jan 20th 2016
+206.217.210.*:Shadowfox - Evasion - 206.217.210.177 - Jan 20th 2016
+66.135.50.*:Shadowfox - Evasion - 66.135.50.151 - Jan 26th 2016
+24.12.160.*:Shadowfox - Evasion - 24.12.160.79 - July 30th 2016
+73.91.149.*:shadowfox - Evasion - 73.91.149.27 - Aug 6th 2016
+172.103.148.*:shadowfox - Evasion - 172.103.148.111 - Aug 7th 2016
+76.169.233.*:Shadowfox - Evasion - 76.169.233.154 - Aug 8th 2016
+125.197.221.*:shadowfox - Extra ip - 125.197.221.150 - Aug 16th 2016
+223.132.24.*:shadowfox - Evasion - 223.132.24.152 - Aug 28th 2016
+183.96.190.*:shadowfox - Evasion - 183.96.190.80 - Aug 28th 2016
+119.202.81.*:shadowfox - Evasion - 119.202.81.188 - Aug 28th 2016
+122.131.218.*:shadowfox - Evasion - 122.131.218.162 - Aug 28th 2016
+118.240.184.*:shadowfox - Evasion - 118.240.184.182 - Aug 29th 2016
+115.22.117.*:shadowfox - Extra ip - 115.22.117.31 - Sep 20th 2016
+47.146.41.*:shadowfox - evasion - 47.146.41.65 - Oct 1st 2016
+73.12.167.*:shadowfox - evasion - 73.12.167.50 - Oct 1st 2016
+138.229.184.*:shadowfox - evasion - 138.229.184.32 - Oct 24th 2016
+66.214.207.*:shadowfox - evasion - 66.214.207.59 - Oct 24th 2016
+25.6.226.*:shadowfox - evasion - 25.6.226.50 - Oct 31st 2016
+108.197.29.*:shadowfox - evasion - 108.197.29.59 - Nov 13th 2016
+174.28.194.*:shadowfox - evasion - 174.28.194.218 - Nov 13th 2016
+125.4.62.*:shadowfox - evasion - 125.4.62.101 - Nov 13th 2016
+222.150.63.*:shadowfox - evasion - 222.150.63.163 - Nov 13th 2016
+68.185.78.*:shadowfox - evasion - 68.185.78.26 - Jan 9th 2017
+75.128.74.*:shadowfox - evasion - 75.128.74.80 - Feb 28th 2017
+66.169.224.*:shadowfox - evasion - 66.169.224.80 - Mar 12th 2017
+97.84.104.*:shadowfox - evasion - 97.84.104.91 - Mar 30th 2017
+138.229.185.*:shadowfox - evasion - 138.229.185.40 - Oct 8th 2017
+138.229.187.*:Shadowfox - evasion - 138.229.187.212 - Nov 12th 2017
+47.35.43.*:Shadowfox - evasion - 47.35.43.65 - Nov 15th 2017
+47.35.40.*:Shadowfox - evasion - 47.35.40.96 - Nov 30th 2017
+138.229.186.*:Shadowfox - evasion - 138.229.186.171 - July 12th 2018
+66.215123.*:Shadowfox - evasion - 66.215123.196 - August 18th 2018
+138.229.178.*:Shadowfox - evasion - 138.229.178.67 - Oct 10th 2018
+138.229.177.*:Shadowfox - evasion - 138.229.177.91 - Oct 19th 2018
+47.35.16.*:Shadowfox - evasion - 47.35.16.160 - Oct 24th 2018
+138.229.179.*:Shadowfox - evasion - 138.229.179.33 - Nov 6th 2018
+47.35.41.*:Gunyon - evasion (Shadowfox) - 47.35.41.86 - Dec 1st 2018
+47.6.144.*:Shadowfox - evasion - 47.6.144.194 - March 8th 2019
+47.6.135.*:Shadowfox - evasion - 47.6.135.150 - June 28th 2019
+47.6.134.*:Shadowfox - evasion - 47.6.134.36 - July 27th 2019
+47.6.139.*:Shadowfox - evasion - 47.6.139.160 - Nov 5th 2019
+47.6.151.*:"[HAX]th0r" (Shadowfox) - evasion, impersonation - Feb 27th 2020
+47.6.137.*: Shadowfox - evasion - 47.6.137.91 - Mar 13th 2020
+47.6.150.*: Shadowfox - evasion - 47.6.150.67 - Sep 6th 2020
+138.229.176.*:shadowfox - evasion - 138.229.176.165 - Sep 19th 2020
+68.113.62.*:shadowfox - evasion - 68.113.62.143 - Dec 27th 2020
+174.87.80.*:Cayde - evasion (Shadowfox) - 174.87.80.95 - Feb 14th 2021
+47.6.146.*:Dimitri - evasion - 47.6.146.35 - Mar 2nd 2021
+174.87.81.*:Jensen - evasion - 174.87.81.77 - May 5th 2021
+47.6.154.*:Renly - evasion - 47.6.154.158 - May 21st 2021
+47.6.153.*:Oberyn - evasion - 47.6.153.142 - May 24th 2021
+47.6.145.*:Stannis - evasion - 47.6.145.201 - May 26th 2021
+47.6.149.*:ShadowFox - evasion - 47.6.149.220 - Feb 7th 2022
+47.6.142.*:nighthawk - evasion - 47.6.142.246 - Feb 14th 2022
+47.27.227.*:manwhore aka Shadowfox - evasion - 47.27.227.226 - Feb 18th 2022
+47.6.140.*:shadowfox - evasion - 47.6.140.30 - Mar 9th 2022
+47.6.129.*:shadowfox - evasion - 47.6.129.44 - Apr 3rd 2022
+47.6.136.*:shadowfox - evasion - 47.6.136.154 - Apr 15th 2022
+47.6.141.*:Phoenix - evasion - 47.6.141.182 - Dec 29th 2022
+
+
+98.255.36.*:Shadowfox(?) (suspicious IP of Spiceymaster) - 98.255.36.13 - Sep 27th 2014
+98.250.172.*:Shadowfox(?) (suspicious IP of Spiceymaster) - 98.250.172.164 - Sep 27th 2014
+50.168.195.*:Shadowfox(?) (suspicious IP of Spiceymaster) - 50.168.195.172 - Sep 27th 2014
+
+//177.97.195.*:[1337]bigdick4urmouf - Cheating - 177.97.195.73 - May 6th 2014
+//205.237.42.*:[1337]bigdick4urmouf - Cheating - 205.237.42.110 - May 6th 2014
+//68.174.209.*:[1337]bigdick4urmouf - Cheating - 68.174.209.193 - May 6th 2014
+//68.174.221.*:[1337]bigdick4urmouf - Cheating - 68.174.221.96 - May 6th 2014
+//98.154.37.*:[1337]bigdick4urmouf - Cheating - 98.154.37.5 - May 6th 2014
+//88.246.117.*:[1337]bigdick4urmouf - Cheating - 88.246.117.200 - May 6th 2014
+//83.212.122.*:[1337]bigdick4urmouf - Cheating - 83.212.122.122 - May 6th 2014
+//118.71.213.*:[1337]bigdick4urmouf - Cheating - 118.71.213.80 - May 6th 2014
+//59.21.136.*:[1337]bigdick4urmouf - Cheating - 59.21.136.25 - May 6th 2014
+
+
+//81.165.52.20:Denzoa - February 11 2014, unlagged exploit. Release date Feb 18th.
+
+//68.61.168.67:Doomdude - Cheating -Jan 15th 2015
+
+//75.180.44.251:FateLord - Cheating - May 31st 2015, release July 31st 2015
+
+//75.90.238.*:Oreocookies/kryotic - Cheating - 75.90.238.60 - May 31st 2015 (also he went and spammed a link to it in #zandronum)
+
+//107.4.126.*:yung hew - Cheating - 107.4.126.119 - Oct 16th 2015
+
+
+107.5.69.145: yetibro - server exploit - Perm - Dec 29th 2015
+68.37.80.237: yetibro - server exploit - Dec 29th 2015
+107.4.19.241: yetibro - server exploit - Jan 12th 2016
+68.43.203.7: yetibro - server exploit - Jan 14th 2016
+
+45.46.32.22: chek - server exploit - Perm - Dec 29th 2015
+67.251.10.45: chek - server exploit - Dec 29th 2015
+45.46.40.31: chek- server exploit - Dec 29th 2015
+67.251.11.189: chek - server exploit - Jan 12th 2016
+45.46.45.45: chek - server exploit - Jan 14th 2016
+
+//91.142.104.229:Carpathia - exploit - Feb 7th 2016 (release Feb 21st 2016)
+//84.194.177.84:Galactus - exploit - Feb 7th 2016 (release June 20th 2016) (was Mar 20th)
+
+//107.12.71.166:immortal - ddos threat - Perm - June 7th 2016
+//107.12.72.19:immortal - evasion - June 17th 2016
+
+80.31.89.*:misstrouble - 80.31.89.153 - security risk - Feb 17th 2018 - perm
+80.31.120.*:misstrouble - 80.31.120.161 - Feb 17th 2018
+80.31.88.*:misstrouble - 80.31.88.170 - Apr 24th 2018
+80.31.121.*:misstrouble - 80.31.121.154 - Apr 24th 2018
+
+12.69.241.76 - aaaaaaaaaaaaaaaaaaaaaaaaaa - server exploit - Sep 21st 2019 - perm
+125.143.240.112 - aaaaaaaaaaaaaaaaaaaaaaaaaa - server exploit - Sep 21st 2019 - perm
+125.128.209.76 - bbbbbbbbbbbbbbbbbbbbbbbbbbbb - server exploit - Sep 21st 2019 - perm
+49.142.65.30 - bbbbbbbbbbbbbbbbbbbbbbbbbbbb - server exploit - Sep 21st 2019 - perm
+118.36.243.186 - 8========================D - server exploit - Sep 21st 2019 - perm
+
+49.207.7.154: ddos - Nov 15th 2022
+103.227.97.45: ddos - Nov 15th 2022
+106.51.16.125: ddos - Nov 15th 2022
+
+
+// Proxy list from doomshack
+
+206.248.133.*: - proxy
+121.109.161.*: - proxy
+113.146.65.*: - proxy
+122.25.38.*: - proxy
+220.119.235.*: - proxy
+124.219.171.*: - proxy
+200.87.191.*: - proxy
+58.153.51.*: - proxy
+24.84.24.*: - proxy
+218.55.25.*: - proxy
+124.56.213.*: - proxy
+84.24.230.*: - proxy
+
+// Proxy list from BE
+// updated for proper syntax -inf
+
+209.222.19.99: - proxy
+103.14.121.218: - proxy
+103.14.121.238: - proxy
+107.6.138.18: - proxy
+108.178.17.166: - proxy
+108.61.60.11: - proxy
+108.61.74.100: - proxy
+108.61.74.99: - proxy
+108.61.81.139: - proxy
+109.200.2.74: - proxy
+109.74.10.91: - proxy
+109.74.13.209: - proxy
+119.252.190.184: - proxy
+119.252.190.185: - proxy
+119.252.190.93: - proxy
+124.248.205.56: - proxy
+124.248.205.70: - proxy
+124.248.208.198: - proxy
+124.248.208.2: - proxy
+124.248.208.209: - proxy
+128.241.*.*: - proxy
+140.174.*.*: - proxy
+142.4.216.61: - proxy
+158.255.0.50: - proxy
+173.224.112.122: - proxy
+174.36.47.170: - proxy
+176.227.194.146: - proxy
+176.31.224.72: - proxy
+176.9.78.238: - proxy
+178.239.50.146: - proxy
+178.239.59.82: - proxy
+178.33.234.57: - proxy
+180.149.247.53: - proxy
+182.73.131.84: - proxy
+184.107.187.34: - proxy
+184.107.237.98: - proxy
+184.107.241.34: - proxy
+184.154.42.82: - proxy
+188.132.236.35: - proxy
+188.132.250.77: - proxy
+188.165.130.102: - proxy
+188.227.180.2: - proxy
+199.189.254.241: - proxy
+199.189.84.200: - proxy
+199.195.212.106: - proxy
+199.217.118.4: - proxy
+199.217.118.88: - proxy
+199.223.116.4: - proxy
+204.2.*.*: - proxy
+206.14.*.*: - proxy
+209.107.*.*: - proxy
+209.239.120.120: - proxy
+213.171.204.123: - proxy
+213.171.204.79: - proxy
+216.185.105.34: - proxy
+216.185.105.36: - proxy
+217.150.241.243: - proxy
+217.174.248.190: - proxy
+217.174.254.199: - proxy
+31.192.104.131: - proxy
+31.200.244.118: - proxy
+37.0.123.17: - proxy
+41.77.136.98: - proxy
+41.77.138.10: - proxy
+46.105.100.166: - proxy
+46.19.138.110: - proxy
+46.19.139.170: - proxy
+46.252.151.25: - proxy
+46.252.152.231: - proxy
+46.4.62.16: - proxy
+46.45.143.219: - proxy
+46.45.182.142: - proxy
+5.9.78.47: - proxy
+5.9.95.237: - proxy
+50.115.116.221: - proxy
+50.30.32.115: - proxy
+64.27.3.214: - proxy
+67.205.103.205: - proxy
+69.167.*.*: - proxy
+69.22.*.*: - proxy
+69.64.56.159: - proxy
+//74.115.*.*: - proxy
+77.245.78.10: - proxy
+83.142.226.101: - proxy
+87.117.253.75: - proxy
+88.208.228.139: - proxy
+88.208.246.136: - proxy
+88.208.250.224: - proxy
+94.185.85.106: - proxy
+94.23.210.196: - proxy
+94.23.87.58: - proxy
+95.110.184.39: - proxy
+95.110.208.40: - proxy
+95.141.32.58: - proxy
+95.141.37.152: - proxy
+95.141.45.81: - proxy
+95.154.254.160: - proxy
+95.215.60.37: - proxy
+95.215.63.86: - proxy
+96.127.150.50: - proxy
+190.233.123.82: - proxy

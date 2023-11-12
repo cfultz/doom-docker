@@ -24,6 +24,7 @@ RUN mkdir /home/zandronum/config && \
     mkdir /home/zandronum/wad/ && \
     mkdir /home/zandronum/iwad/ && \
     mkdir /home/zandronum/bin/ && \
+    mkdir /home/zandronum/player/ && \
     mkdir /home/zandronum/logs/
 
 COPY /config/ /home/zandronum/config/
@@ -31,6 +32,8 @@ COPY /bin/ /home/zandronum/bin/
 COPY /player/ /home/zandronum/player/
 COPY /iwad/ /home/zandronum/iwad/
 COPY /wad/ /home/zandronum/wad/
+
+RUN wget -O /home/zandronum/config/masterbanlist.txt https://zandronum.com/banlist && cat masterbanlist.txt >> /home/zandronum/player/banlist.txt
 
 USER root
 RUN chown -R zandronum:zandronum /home/zandronum
