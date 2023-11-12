@@ -6,7 +6,7 @@ RUN apt-get update --yes
 RUN apt-get upgrade --yes
 
 # Helper libraries for adding repo
-RUN apt-get install -yes dialog apt-utils software-properties-common wget
+RUN apt-get install --yes dialog apt-utils software-properties-common wget
 
 # Adding Zandronum repo and installing the application
 
