@@ -30,3 +30,13 @@ docker build -t cfultz/doom-docker:latest .
 ## What's included? 
 
 Freedoom and the shareware version of DOOM (1993). These are legal to share so that's why they are here. If you want to change/add WADS, place them in the ``/IWAD/`` directory, and use an environmental variable to select your prefered IWAD and starting map. You can also add a custom WAD
+
+## Licenses 
+
+Code within freedoom1.wad, freedoom2.wad, and doom1.wad which are subject to their own licenses.
+
+* [freedoom's](https://github.com/freedoom/freedoom/blob/master/COPYING.adoc) license
+
+* [doom1.wad's](https://github.com/id-Software/DOOM) README 
+
+The content of the code are subject to the [Creative Commons Zero v1.0 Unviversal](https://github.com/cfultz/doom-docker/blob/main/LICENSE) License. 
