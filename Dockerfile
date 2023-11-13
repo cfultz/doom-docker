@@ -10,6 +10,7 @@ ENV IWAD doom1.wad
 ENV CONFIG default.cfg
 ENV SERVER_NAME Docker-Doom
 ENV START_MAP E1M1
+ENV PWAD custom.pk3
 
 # Update the OS
 RUN apt-get update --yes

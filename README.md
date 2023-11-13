@@ -26,3 +26,7 @@ git clone https://github.com/cfultz/doom-docker
 cd doom-docker
 docker build -t cfultz/doom-docker:latest .
 ```
+
+## What's included? 
+
+Freedoom and the shareware version of DOOM (1993). These are legal to share so that's why they are here. If you want to change/add WADS, place them in the ``/IWAD/`` directory, and use an environmental variable to select your prefered IWAD and starting map. You can also add a custom WAD
