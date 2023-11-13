@@ -14,3 +14,15 @@ Because, I love boomer shooters (specifically Doom2, Doom64, and Duke Nukem 3D) 
 * [frozenfoxx/docker-zandronum-server](https://github.com/frozenfoxx/docker-zandronum-server)
 * [rcdailey/zandronum-server](https://github.com/rcdailey/zandronum-server)
 * [mccarrmb/docker-doom](https://github.com/mccarrmb/docker-doom)
+
+## What's different about yours?
+
+This container is built on Debian Bookworm Slim instead of the spyware known as Ubuntu. Even though they abandoned the idea years ago, (people don't forget)[https://www.eff.org/deeplinks/2012/10/privacy-ubuntu-1210-amazon-ads-and-data-leaks]. If you are able to, move your containers to Debian.
+
+## How to build this image locally
+
+```
+git clone https://github.com/cfultz/doom-docker
+cd doom-docker
+docker build -t cfultz/doom-docker:latest .
+```
