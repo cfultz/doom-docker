@@ -1,5 +1,5 @@
 # Cause fuck Ubuntu
-FROM debian:bookworm-slim
+FROM debian:bookworm-slim AS installer
 
 # Who to contact
 LABEL maintainer="cfultz <caleb@fultz.dev>"
@@ -25,7 +25,7 @@ RUN wget -O /etc/apt/trusted.gpg.d/drdteam.gpg https://debian.drdteam.org/drdtea
 RUN echo "deb https://debian.drdteam.org stable multiverse" >> /etc/apt/sources.list
 RUN apt-get update --yes
 RUN apt-get upgrade --yes
-RUN apt-get install --yes --quiet zandronum-server
+RUN apt-get install --yes --quiet zandronum
 
 # Create zandronum user
 RUN useradd -ms /bin/bash zandronum
