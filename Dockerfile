@@ -26,7 +26,7 @@ RUN apt-get update --yes
 RUN apt-get upgrade --yes
 RUN apt-get install --yes --quiet zandronum-server
 
-# Create a non-privileged user
+# Create zandronum user
 RUN useradd -ms /bin/bash zandronum
 
 # Build the app directory and add files
