@@ -1,5 +1,5 @@
 # Cause fuck Ubuntu
-FROM debian:bookworm-slim AS installer
+FROM debian:bullseye-slim
 
 # Who to contact
 LABEL maintainer="cfultz <caleb@fultz.dev>"
@@ -21,6 +21,8 @@ RUN apt-get install --yes dialog apt-utils wget libsdl-image1.2
 
 # Adding Zandronum repo and installing the application
 
+#RUN wget http://ftp.us.debian.org/debian/pool/main/o/openssl/libssl1.1_1.1.1n-0+deb11u4_amd64.deb
+#RUN gdebi --non-interactive libssl1.1_1.1.1n-0+deb11u4_amd64.deb
 RUN wget -O /etc/apt/trusted.gpg.d/drdteam.gpg https://debian.drdteam.org/drdteam.gpg
 RUN echo "deb https://debian.drdteam.org stable multiverse" >> /etc/apt/sources.list
 RUN apt-get update --yes
